@@ -1,0 +1,12 @@
+Sveiki!
+
+Èia trumpa instrukcija kaip Stellarium priversti rodyti lietuviðkà dangø:
+
+1. Ádiekite á savo kompiuterá Stellarium programà (http://stellarium.org/)
+2. Parsisiøskite mûsø plëtinius
+3. Idëkite mûsø plëtinius á atitinkamà katalogà
+ 
+Pavyzdþiui: 
+- jei jûs norite parsisiøsti lietuviðkà dangø, tai atsisiøskite katalogo „LietuvosDangus“ (https://github.com/pi-Ratas/Skaitant-Dangaus-Zenklus/tree/master/LietuvosDangus) turiná  á savo kompiuterá ir padëkite já á savo stellarium programos katalogà „SkyCultures“.
+
+- jei norite ádiegti koká nors kraðtovaizdá. Tai já, parsisiuntæ ið github svetainës, ádëkite á Stellarium programos „landscapes“ katalogà.
