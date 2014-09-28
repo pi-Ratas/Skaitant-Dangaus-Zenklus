@@ -7,6 +7,6 @@ Sveiki!
 3. Idëkite mûsø plëtinius á atitinkamà katalogà
  
 Pavyzdþiui: 
-- jei jûs norite parsisiøsti lietuviðkà dangø, tai atsisiøskite katalogo „LietuvosDangus“ (https://github.com/pi-Ratas/Skaitant-Dangaus-Zenklus/tree/master/LietuvosDangus) turiná  á savo kompiuterá ir padëkite já á savo stellarium programos katalogà „SkyCultures“.
+- jei jûs norite parsisiøsti lietuviðkà dangø, tai atsisiøskite katalogo „LietuvosDangus“ (https://github.com/pi-Ratas/Skaitant-Dangaus-Zenklus/tree/master/LietuvosDangus) turiná  á savo kompiuterá ir iðarchyvuokite já á savo stellarium programos katalogà „SkyCultures“.
 
-- jei norite ádiegti koká nors kraðtovaizdá. Tai já, parsisiuntæ ið github svetainës, ádëkite á Stellarium programos „landscapes“ katalogà.
+- jei norite ádiegti koká nors kraðtovaizdá. Tai já, parsisiuntæ ið github svetainës, ádëkite á Stellarium programos „landscapes“ katalogà. 
