@@ -3,10 +3,16 @@ Sveiki!
 Èia trumpa instrukcija kaip Stellarium priversti rodyti lietuviðkà dangø:
 
 1. Ádiekite á savo kompiuterá Stellarium programà (http://stellarium.org/)
-2. Parsisiøskite mûsø plëtinius
-3. Idëkite mûsø plëtinius á atitinkamà katalogà
+2. Parsisiøskite failà Skaitant-Dangaus-Zenklus.zip
+3. Iðpakuokite archyvo turiná á Stellarium programos katalogà. Paprastai tai yra katalogas 
+	C:\Program Files\Stellarium 
+	arba katalogas 
+	C:\Program Files (x86)\Stellarium
+	
+4. Paleiskite Stellarium ir spauskite F4 klaviðà. Pasirodþiuseme lange susirasite tiek dangaus kultûrà, tiek norimà kraðtovaizdá.
+5. Savo atsiliepimus palikite puslapyje http://rask.lt/skaitant-dangaus-zenklus/ arba fb grupëje „Skaitant dangaus þenklus“
  
-Pavyzdþiui: 
-- jei jûs norite parsisiøsti lietuviðkà dangø, tai atsisiøskite katalogo „LietuvosDangus“ (https://github.com/pi-Ratas/Skaitant-Dangaus-Zenklus/tree/master/LietuvosDangus) turiná  á savo kompiuterá ir iðarchyvuokite já á savo stellarium programos katalogà „SkyCultures“.
+Projektas paskelbtas adresu: https://github.com/pi-Ratas/Skaitant-Dangaus-Zenklus
+Smulkesnæ informacijà rasite http://rask.lt/skaitant-dangaus-zenklus/
 
-- jei norite ádiegti koká nors kraðtovaizdá. Tai já, parsisiuntæ ið github svetainës, ádëkite á Stellarium programos „landscapes“ katalogà. 
+Smagaus pasiþvaigþdinëjimo!
