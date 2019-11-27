@@ -1,18 +1,18 @@
 Sveiki!
 
-Èia trumpa instrukcija kaip Stellarium priversti rodyti lietuviğkà dangø:
+ÄŒia trumpa instrukcija kaip Stellarium priversti rodyti lietuviÅ¡kÄ… dangÅ³:
 
-1. Ádiekite á savo kompiuterá Stellarium programà (http://stellarium.org/)
-2. Parsisiøskite failà Skaitant-Dangaus-Zenklus.zip
-3. Iğpakuokite archyvo turiná á Stellarium programos katalogà. Paprastai tai yra katalogas 
+1. Ä®diekite Ä¯ savo kompiuterÄ¯ Stellarium programÃ  (http://stellarium.org/)
+2. ParsisiÅ³skite failÄ… Skaitant-Dangaus-Zenklus.zip
+3. IÅ¡pakuokite archyvo turinÄ¯ Ä¯ Stellarium programos katalogÄ…. Paprastai tai yra katalogas 
 	C:\Program Files\Stellarium 
 	arba katalogas 
 	C:\Program Files (x86)\Stellarium
 	
-4. Paleiskite Stellarium ir spauskite F4 klaviğà. Pasirodşiuseme lange susirasite tiek dangaus kultûrà, tiek norimà krağtovaizdá.
-5. Savo atsiliepimus palikite puslapyje http://rask.lt/skaitant-dangaus-zenklus/ arba fb grupëje „Skaitant dangaus şenklus“
+4. Paleiskite Stellarium ir spauskite F4 klaviÅ¡Ä…. PasirodÅ¾iusiame lange susirasite tiek dangaus kultÅ«rÄ…, tiek norimÄ… kraÅ¡tovaizdÄ¯.
+5. Savo atsiliepimus palikite puslapyje http://kriviu-krivis.lt/apie/kontaktai/ arba per Facebook susiraskite mane (KÄ™stutis RaÄkaitis)
  
 Projektas paskelbtas adresu: https://github.com/pi-Ratas/Skaitant-Dangaus-Zenklus
-Smulkesnæ informacijà rasite http://rask.lt/skaitant-dangaus-zenklus/
+Smulkiau galima suÅ¾inoti nuorodoje http://kriviu-krivis.lt/category/dangiskos-pasakos/
 
-Smagaus pasişvaigşdinëjimo!
+Smagaus pasiÅ¾vaigÅ¾dinÄ—jimo!
